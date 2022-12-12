@@ -3,7 +3,7 @@ A web application made to help pet owners find caretakers easily during emergenc
 [The website](https://petcare-volunteer.herokuapp.com/) is up and running on heroku, check it out
 
 Heroku has made free Heroku Dynos, free heroku postgres and heroku data for Redis unavailable from
-28th November, 2023 onwards. We will try redeploying our project in other platform. 
+28th November, 2022 onwards. We will try redeploying our project in other platform. 
 
 
 ## Python packages required
